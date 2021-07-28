@@ -32,4 +32,4 @@ def get_max_substr(string):
 if __name__ == "__main__":
     string = "edcdddcda"
     max_range, max_substr = get_max_substr(string)
-    print max_range, max_substr
+    print(max_range, max_substr)
